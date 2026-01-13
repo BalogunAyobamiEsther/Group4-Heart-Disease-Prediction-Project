@@ -55,7 +55,7 @@ Model performance was evaluated using:
 ---
 
 ## 🧪 Results and Insights
-Comparative analysis shows that ensemble-based models, particularly Random Forest and XGBoost, achieved stronger predictive performance. The results highlight the significance of key clinical indicators in heart disease prediction and emphasize the importance of model evaluation in healthcare applications.
+Comparative analysis shows that ensemble-based models, particularly Random Forest and XGBoost, achieved stronger predictive performance. The results highlight the significance of key clinical indicators in heart disease prediction and emphasize the importance of model evaluation in healthcare applications. While, SVM had the highest recall (94%), meaning it was best at identifying true positive heart disease cases and Logistic Regression achieved the most balanced and interpretable performance overall.
 
 ---
 

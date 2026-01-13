@@ -61,12 +61,11 @@ Comparative analysis shows that ensemble-based models, particularly Random Fores
 
 ## 🛠️ Tools and Technologies
 - Python  
-- Jupyter Notebook  
+- Google Colab  
 - Pandas & NumPy  
 - Matplotlib & Seaborn  
 - Scikit-learn  
 - XGBoost  
 
----
 
-## 📁 Project Structure
+
